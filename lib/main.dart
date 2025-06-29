@@ -4,7 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'pages/login.dart';
 import 'pages/register.dart';
 import 'pages/home.dart';
-import 'constants/theme.dart'; // pastikan path-nya sesuai
+import 'constants/theme.dart';
 
 void main() {
   runApp(const MyApp());
